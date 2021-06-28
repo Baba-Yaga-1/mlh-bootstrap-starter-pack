@@ -12,4 +12,6 @@ There are lots of example files in the repo. Feel free to change or remove them!
 
 ## Useful links to get started!
 
-Preview of the website : 
+Preview of the website : https://baba-yaga-1.github.io/mlh-bootstrap-starter-pack/
+
+Bootstrap documentation link : https://getbootstrap.com/docs/5.0/getting-started/introduction/
