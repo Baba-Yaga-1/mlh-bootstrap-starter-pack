@@ -1,0 +1,28 @@
+/* This is where you'll write your CSS!
+CSS is how you style your website, such as
+setting colours, changing the width and
+height of things, and beyond! The project
+also includes Bootstrap's CSS so you can
+use that without typing it in here! */
+
+/* This is to give a height and width to the carousel component */
+.carousel-item{
+    height: 600px;
+    
+}
+.carousel-item img{
+    height: 600px;
+    width: 600px;
+    position: absolute;
+}
+
+/* This is to give padding and margin to the grid system */
+.row{
+    padding: 80px 80px 80px 80px;
+    margin-left: 60px;
+}
+
+/* This is to give padding to the form section */
+.mb-3{
+    padding: 15px 100px 50px;
+}
