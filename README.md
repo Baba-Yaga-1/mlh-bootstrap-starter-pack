@@ -17,4 +17,4 @@ Preview of the website : https://baba-yaga-1.github.io/mlh-bootstrap-starter-pac
 Bootstrap documentation link : https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
 ## 📝 License
-This project follows the [MIT License]()
+This project follows the [MIT License](https://github.com/Baba-Yaga-1/mlh-bootstrap-starter-pack/blob/main/LICENSE)
